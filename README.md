@@ -1,1 +1,1 @@
-# Subvitamine Zend 1 Package
+# Subvitamine ZF1 library
